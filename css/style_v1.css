@@ -89,7 +89,7 @@ button:hover, a:hover {
 }
 
 .person-card img {
-  height: 150px;
+  height: 100%;
   /* border-radius: 15px;
   display: block; */
   width: 100%;
